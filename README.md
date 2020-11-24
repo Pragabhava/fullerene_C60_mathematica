@@ -1,5 +1,5 @@
 # Acompanying *Mathematica* code for
-# [Nonlinear Vibrations in the Fullerene Molecule](https://arxiv.org/abs/1804.05455)
+# [Nonlinear Vibrations in the Fullerene Molecule *C60*](https://arxiv.org/abs/1804.05455)
 Accepted for publication at [SIADS](https://www.siam.org/publications/journals/siam-journal-on-applied-dynamical-systems-siads)
 
 In this repo are the main numerical solution generators for the paper. By looking at PSALC-XX-X, it can be seen how the code can be adapted to generate other solutions.
